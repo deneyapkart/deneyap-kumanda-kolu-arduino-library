@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Deneyap_KumandaKolu
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+
+Deneyap_KumandaKolu	KEYWORD1
+
+####################################
+# Class (KEYWORD1)
+####################################
+
+Joystick	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin		KEYWORD2
+isConnected	KEYWORD2
+getFwVersion	KEYWORD2
+setI2Caddress	KEYWORD2
+swRead		KEYWORD2
+xRead		KEYWORD2
+yRead		KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
